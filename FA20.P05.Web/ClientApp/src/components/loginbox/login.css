@@ -1,0 +1,19 @@
+.loginScreen{
+  display: inline;
+  padding-right: 5vh;
+  color:white;
+}
+
+.loginForm{
+  padding: 2vh;
+  padding-top: 10vh;
+  border: 2px;
+  border-color: black;
+}
+
+.loginPanel{
+  padding-right: 5vh;
+  background-color: #9B4AE6;
+  padding-top: 1vh;
+  color: white;
+}

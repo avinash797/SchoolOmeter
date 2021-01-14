@@ -1,0 +1,15 @@
+
+.home-cards{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+    
+  }
+
+  .home-chart{
+    margin-bottom: 20px;
+  }
+  
+.home{
+  padding: 10px;
+}

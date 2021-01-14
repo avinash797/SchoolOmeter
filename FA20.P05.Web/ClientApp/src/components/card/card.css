@@ -1,0 +1,25 @@
+
+
+  .solocard{
+    
+    padding: 0px;
+    justify-content: flex-end;
+     transition: 0.3s;
+   }
+   
+   .card{
+    box-shadow: 5px 10px 20px 0#D5B4F5;
+     color: black;
+       height: max-content;
+       width: 200px;
+       vertical-align: middle;
+       margin: 10px;
+ 
+   }
+   .card:hover{
+     background-color:#E3CCF8;
+     height: max-content+10px;
+       width: max-content+10px;
+       transition: all 0.2s ease-in-out;
+       
+   }

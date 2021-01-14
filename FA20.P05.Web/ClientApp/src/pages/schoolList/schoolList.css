@@ -1,0 +1,40 @@
+.schoolList {
+  display: flex;
+  height: 92vh;
+}
+.actual-admin {
+  padding: 10px;
+  padding-bottom: 5vh;
+  width: 100%;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.sidebar-admin {
+  display: flex;
+  flex-direction: column;
+  background-color: #8d61d4;
+  height: 92vh;
+  padding-top: 3vh;
+  font-weight: 500;
+  width: 20vw;
+  padding-left: 1rem;
+  align-items: flex-start;
+  position: relative;
+  font-weight: bold;
+}
+
+.buttons-admin {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.table {
+  padding: 20px;
+}
+
+.buttons{
+  justify-content: space-evenly;
+  margin: 5px;
+  }
