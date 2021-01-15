@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FA20-P05-Mobile",
+    "slug": "FA20-P05-G04",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Src/assets/icon.png",
+    "splash": {
+      "image": "./Src/assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./Src/assets/favicon.png"
+    },
+    "android": {
+      "package": "com.expo.cmps383_fa20_p05_g04",
+      "versionCode": 1
+    }
+  }
+}
